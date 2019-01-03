@@ -1,2 +1,1 @@
-git is a version manager software
-git is useful
+this is a testfile
